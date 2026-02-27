@@ -17,7 +17,6 @@ RabbitMQ client
 ### Architecture
 Event-Driven Microservices
 Clean Architecture principles
-Vertical slice features
 
 ### Infrastructure
 Docker
